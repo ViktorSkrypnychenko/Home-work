@@ -1,2 +1,2 @@
 # Home-work
-This is homework for the type script beginner course
+This is homework for the TypeScript beginner course
